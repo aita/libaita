@@ -22,6 +22,7 @@ macro_rules! test_sort {
 
 test_sort!(bubble_sort);
 test_sort!(comb_sort);
+test_sort!(cycle_sort);
 test_sort!(dual_quick_sort);
 test_sort!(gnome_sort);
 test_sort!(heap_sort);

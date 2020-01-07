@@ -10,6 +10,7 @@ macro_rules! declare_sort {
 
 declare_sort!(bubble_sort);
 declare_sort!(comb_sort);
+declare_sort!(cycle_sort);
 declare_sort!(dual_quick_sort);
 declare_sort!(gnome_sort);
 declare_sort!(heap_sort);
